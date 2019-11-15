@@ -1,0 +1,11 @@
+/Users/dylpickle/Workspace/csharp/exercises/DictionaryOfWords/obj/Debug/netcoreapp3.0/DictionaryOfWords.csprojAssemblyReference.cache
+/Users/dylpickle/Workspace/csharp/exercises/DictionaryOfWords/obj/Debug/netcoreapp3.0/DictionaryOfWords.AssemblyInfoInputs.cache
+/Users/dylpickle/Workspace/csharp/exercises/DictionaryOfWords/obj/Debug/netcoreapp3.0/DictionaryOfWords.AssemblyInfo.cs
+/Users/dylpickle/Workspace/csharp/exercises/DictionaryOfWords/bin/Debug/netcoreapp3.0/DictionaryOfWords
+/Users/dylpickle/Workspace/csharp/exercises/DictionaryOfWords/bin/Debug/netcoreapp3.0/DictionaryOfWords.deps.json
+/Users/dylpickle/Workspace/csharp/exercises/DictionaryOfWords/bin/Debug/netcoreapp3.0/DictionaryOfWords.runtimeconfig.json
+/Users/dylpickle/Workspace/csharp/exercises/DictionaryOfWords/bin/Debug/netcoreapp3.0/DictionaryOfWords.runtimeconfig.dev.json
+/Users/dylpickle/Workspace/csharp/exercises/DictionaryOfWords/bin/Debug/netcoreapp3.0/DictionaryOfWords.dll
+/Users/dylpickle/Workspace/csharp/exercises/DictionaryOfWords/bin/Debug/netcoreapp3.0/DictionaryOfWords.pdb
+/Users/dylpickle/Workspace/csharp/exercises/DictionaryOfWords/obj/Debug/netcoreapp3.0/DictionaryOfWords.dll
+/Users/dylpickle/Workspace/csharp/exercises/DictionaryOfWords/obj/Debug/netcoreapp3.0/DictionaryOfWords.pdb
